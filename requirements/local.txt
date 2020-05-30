@@ -1,0 +1,7 @@
+-r ./base.txt
+
+# Testing
+
+
+# Code quality
+pylint==django-2.0.15
