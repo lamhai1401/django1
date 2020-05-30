@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/lamhai/django/mb_project/venv/bin/python",
+    "python.venvPath": "/Users/lamhai/django/mb_project/venv",
+    "python.formatting.autopep8Path": "/usr/local/bin/pep8",
+    "python.linting.enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintPath": "/Users/lamhai/Library/Python/3.7/bin/pylint",
+    "python.linting.pylintArgs": ["--load-plugins", "pylint_django"],
+}
