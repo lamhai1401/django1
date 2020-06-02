@@ -12,5 +12,14 @@
             "args":["runserver","--noreload"],
             "django":true
         },
+        // {
+        //     "name": "Launch",
+        //     "type": "go",
+        //     "request": "launch",
+        //     "mode": "auto",
+        //     "program": "${fileDirname}",
+        //     "env": {},
+        //     "args": []
+        // },
     ]
 }
