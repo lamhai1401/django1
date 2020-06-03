@@ -147,3 +147,7 @@ CELERY_ACCEPT_CONTENT = ['application/json']
 CELERY_TASK_SERIALIZER = 'json'
 CELERY_RESULT_SERIALIZER = 'json'
 CELERY_TIMEZONE = 'Asia/Ho_Chi_Minh'
+
+# log in/out 
+LOGIN_REDIRECT_URL = 'blogList'
+LOGOUT_REDIRECT_URL= 'blogList'
